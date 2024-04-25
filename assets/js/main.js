@@ -5,6 +5,13 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+// const active = false;
+
+// if (active) {
+//   window.location.href = "https://www.samuelorellanamateo.com";
+// }
+
 (function() {
   "use strict";
 
