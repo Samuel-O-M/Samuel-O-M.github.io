@@ -4,7 +4,7 @@
 
 This repository contains the code for my personal website. It is a simple front-end.
 
-The website can be accesed at [https://forkan5870.github.io/](https://forkan5870.github.io/).
+The website can be accesed at [https://samuel-o-m.github.io/](https://samuel-o-m.github.io/).
 
 ## Available Scripts
 
